@@ -3,6 +3,7 @@
 ### Recorded_sessions [Gdrive Link](https://drive.google.com/drive/folders/1E8g-joDclH7LP91tatpISyF0Rk_ycra_?usp=sharing)
 ### Slack Link Invitation [Link](https://join.slack.com/t/dataanalysispython/shared_invite/zt-jcpuwcht-NAvBMEXWr7w3TDA0q2cF7A) 
 ### Day-4 recorded session [Link](https://transcripts.gotomeeting.com/#/s/823ba07f5a8b549bcbe23b32e3b26b260a87affb8077190082b5f3d7b4078a64)
+### Day-5 recorded session [Link](https://transcripts.gotomeeting.com/#/s/d62539136b4c786b8e7f586de5d102c1df4ea68301114eb7d502fec8a6b5eee3)
 ### For upcoming updates in APSSDC join in [Telegrame](t.me/apssdcupdates)
 
 ### Numpy
